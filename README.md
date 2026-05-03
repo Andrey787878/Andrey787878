@@ -1,16 +1,113 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Andrey787878/Andrey787878** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Андрей Полуянов
 
-Here are some ideas to get you started:
+## DevOps / SRE инженер
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+[![Website](https://img.shields.io/badge/Website-poluyanov.net-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://poluyanov.net)
+[![Telegram](https://img.shields.io/badge/Telegram-@poluyanovv-111111?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/poluyanovv)
+[![Email](https://img.shields.io/badge/Email-andrey@poluyanov.net-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrey@poluyanov.net)
+[![Habr](https://img.shields.io/badge/Habr-profile-111111?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/users/Andrey172/)
+
+</div>
+
+---
+
+## Обо мне
+
+Начинающий DevOps / SRE инженер.
+
+Не ограничиваюсь теорией: учусь через практику и строю полноценные инфраструктурные проекты.
+
+Пишу статьи на темы, связанные с DevOps. В процессе работы над ними глубоко разбираюсь в конкретных вопросах, а затем в интересной форме делюсь полученными знаниями.
+
+Люблю работать в команде: обсуждать идеи, предлагать решения и вместе искать лучший подход. Легко нахожу общий язык в коллективе и ценю возможность развиваться в сильной инженерной среде.
+
+---
+
+## Навыки
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111111?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-111111?style=for-the-badge&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-111111?style=for-the-badge&logo=terraform&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-111111?style=for-the-badge&logo=gitlab&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-111111?style=for-the-badge&logo=prometheus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-111111?style=for-the-badge&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-111111?style=for-the-badge&logo=go&logoColor=white)
+
+</div>
+
+<br>
+
+## Ключевой проект
+
+### [Internal AI Knowledge Assistant](https://github.com/Andrey787878/ai-knowledge-assistant)
+
+DevOps/SRE-кейс внутреннего AI-ассистента знаний компании.
+
+Цель проекта — создать единую централизованную систему знаний, которая использует Wiki.js как базу знаний и предоставляет быстрые, структурированные ответы на вопросы сотрудников.
+
+Стек: Wiki.js, n8n, PostgreSQL, Redis и Ollama.
+
+**Что реализовано:**
+
+- 2 воспроизводимых контура деплоя
+- VM-контур: в Yandex Cloud на 4 виртуальных машинах
+- Kubernetes-контур: single-node k3s в Yandex Cloud
+- инфраструктура через Terraform
+- автоматизация через Ansible
+- деплой Kubernetes-сервисов через Helmfile
+- 2 самописных чарта n8n queue mode и Ollama
+- управление секретами через Ansible Vault и SOPS
+- TLS через Let's Encrypt и ACME HTTP-01
+- reverse proxy через Nginx
+- Ingress Traefik, cert-manager и ClusterIssuer
+- Security Groups
+- Firewall на хостах
+- NetworkPolicy с default deny
+- PostgreSQL backup/restore
+- Redis для queue mode
+- smoke-проверки и runbooks
+- подробная документация и архитектурные схемы
+
+[![Repository](https://img.shields.io/badge/Open_Repository-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Andrey787878/ai-knowledge-assistant)
+
+---
+
+## Публикации
+
+### [Как я уменьшил Docker-образ Go-приложения с 1.92 GB до 9 MB](https://habr.com/ru/articles/962318/)
+
+Написал техническую статью на Хабре про оптимизацию Docker-образа для Go: пошагово разобрал оптимизацию от наивного подхода до multi-stage с использованием Alpine, scratch, distroless в качестве runtime-образов. Бонусом продемонстрировал подход с использованием UPX-сжатия.
+
+Статья получила заметный отклик: **30k+ просмотров**, **280+ добавлений в закладки**, **рейтинг +81**.
+
+[![Read on Habr](https://img.shields.io/badge/Read_on_Habr-111111?style=for-the-badge&logo=habr&logoColor=white)](https://habr.com/ru/articles/962318/)
+
+---
+
+## Сайт
+
+В более интерактивном формате с моим опытом и достижениями можно ознакомиться на сайте:
+
+[![Open Website](https://img.shields.io/badge/Open_Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://poluyanov.net)
+
+---
+
+## GitHub статистика
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Andrey787878&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Andrey787878&layout=compact&theme=github_dark&hide_border=true" />
+
+</div>
