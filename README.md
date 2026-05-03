@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Telegram-@poluyanovv-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
   <a href="mailto:andrey@poluyanov.net">
-    <img src="https://img.shields.io/badge/Email-andrey%40poluyanov.net-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-andrey@poluyanov.net-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
