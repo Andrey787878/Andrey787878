@@ -7,21 +7,13 @@
 <br>
 
 <p align="center">
-  <a href="https://t.me/poluyanovv">
-    <img src="https://img.shields.io/badge/Telegram-@poluyanovv-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="mailto:andrey@poluyanov.net">
-    <img src="https://img.shields.io/badge/Email-andrey@poluyanov.net-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+  <a href="https://t.me/poluyanovv"><img src="https://img.shields.io/badge/Telegram-@poluyanovv-30363d?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="mailto:andrey@poluyanov.net"><img src="https://img.shields.io/badge/Email-andrey@poluyanov.net-30363d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <p align="center">
-  <a href="https://poluyanov.net">
-    <img src="https://img.shields.io/badge/Website-poluyanov.net-30363d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
-  </a>
-  <a href="https://habr.com/ru/users/Andrey172/">
-    <img src="https://img.shields.io/badge/Habr-Andrey172-30363d?style=for-the-badge&logo=habr&logoColor=white" alt="Habr">
-  </a>
+  <a href="https://poluyanov.net"><img src="https://img.shields.io/badge/Website-poluyanov.net-30363d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://habr.com/ru/users/Andrey172/"><img src="https://img.shields.io/badge/Habr-Andrey172-30363d?style=for-the-badge&logo=habr&logoColor=white" alt="Habr"></a>
 </p>
 
 </div>
