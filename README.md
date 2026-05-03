@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/Website-poluyanov.net-30363d?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   <a href="https://habr.com/ru/users/Andrey172/">
-    <img src="https://img.shields.io/badge/Habr-profile-30363d?style=for-the-badge&logo=habr&logoColor=white" alt="Habr">
+    <img src="https://img.shields.io/badge/Habr-profile-30363d?style=for-the-badge&logo=habr&logoColor=white" alt="Andey172">
   </a>
 </p>
 
